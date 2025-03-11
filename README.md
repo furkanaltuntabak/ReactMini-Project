@@ -39,7 +39,7 @@ npm run dev
 - [Vite.js](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- Vite.js
+
 
 ## Katkıda Bulunma
 
