@@ -41,7 +41,5 @@ npm run dev
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
-## Katkıda Bulunma
 
-Her türlü geri bildirime açığız! Fork edip geliştirmeler yapabilir, pull request gönderebilirsiniz. 😊
 
